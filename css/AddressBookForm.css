@@ -14,11 +14,13 @@ header{
   flex-direction: row;
   align-items: center;
   border: 0px solid green;
+  height: 76px;
 }
 .logo-content{
   display: flex;
   flex-direction: row;
   align-items: center;
+  margin-left: 162px;
   border: 0px solid green;
   width: 80px;
 }
